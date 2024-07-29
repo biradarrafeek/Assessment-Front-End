@@ -40,6 +40,8 @@ Tasks have timestamps that update when changes are made, teaching how to work wi
 ### Responsive Design
 The project follows responsive design principles to ensure the application works well on various screen sizes.
 
+### Live Demo Link: 
+https://vocal-kangaroo-72c44a.netlify.app/ 
 
 ### --------------------------------
 
